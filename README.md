@@ -19,6 +19,5 @@ Here are some ideas to get you started:
 #### Codiga statistics
  
 <a href="https://app.codiga.io/public/user/github/W1nterFr3ak">
-   <img src="https://api.codiga.io/public/badge/user/github/W1nterFr3ak" alt="code inspector badge" />
-</a> 
-
+   <img src="https://api.codiga.io/public/badge/user/github/W1nterFr3ak?style=light" alt="codiga badge" />
+</a>
