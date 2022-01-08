@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 😄 Did i mention that am a wannabe Linux and Exploit dev 
 - 🌱 I’m currently working as a computer teacher while learning rootkit development.
 - 💞️ I’m a member of Fr33aks ctf team (mini though lol). But if you need a pwn and crypto teammate hola me 
-- Portfolio: I think I need one of these (coming soon)
+- 😄 Portfolio: I think I need one of these (coming soon)
 - ⚡ Let me emphasize on this: I Love python(i guess thats why am single hehehe)
 #### Contacts
 <a href="mailto:byronchris25@gmail.com">
