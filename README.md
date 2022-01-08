@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 - 🌱 I’m currently working as a computer teacher while learning rootkit development.
 - 💞️ I’m a member of Fr33aks ctf team (mini though lol). But if you need a pwn and crypto teammate hola me 
 - Portfolio: I think I need one of these (coming soon)
--
 - ⚡ Let me emphasize on this: I Love python(i guess thats why am single hehehe)
+#### Contacts
+<a href="byronchris25@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 #### Codiga statistics
  
@@ -32,4 +35,4 @@ Here are some ideas to get you started:
 </a>
 
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
