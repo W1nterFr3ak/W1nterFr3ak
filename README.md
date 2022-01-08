@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- I love python and Infosec 
+- 
+#### Codiga statistics
+
+<a href="https://app.codiga.io/public/user/github/W1nterFr3ak">
+   <img src="https://app.codiga.io/public/user/github/W1nterFr3ak" alt="code inspector badge" />
+</a>
+
