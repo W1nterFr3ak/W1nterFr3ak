@@ -32,6 +32,4 @@ Here are some ideas to get you started:
 </a>
 
 
-< a href="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-byronchris25@gmail.com
-</a>
+< img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
