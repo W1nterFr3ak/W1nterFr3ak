@@ -17,13 +17,8 @@ Here are some ideas to get you started:
 - I love python and Infosec 
 - 
 #### Codiga statistics
-
-<a href="https://app.codiga.io/public/user/github/W1nterFr3ak">
-   <img src="https://app.codiga.io/public/badge/user/github/W1nterFr3ak" alt="code inspector badge" />
-</a>
  
-<!--  
-<a href="https://app.codiga.io/public/user/github/juli1">
-   <img src="https://api.codiga.io/public/badge/user/github/juli1" alt="code inspector badge" />
-</a> -->
+<a href="https://app.codiga.io/public/user/github/W1nterFr3ak">
+   <img src="https://api.codiga.io/public/badge/user/github/W1nterFr3ak" alt="code inspector badge" />
+</a> 
 
