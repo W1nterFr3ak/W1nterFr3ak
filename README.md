@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 💞️ I’m a member of Fr33aks ctf team (mini though lol). But if you need a pwn and crypto teammate hola me 
 - Portfolio: I think I need one of these (coming soon)
 - 📫 How to reach me byronchris25@gmail.com
-- ⚡ Let me empasize on this: I Love python(i gues thats why am single hehehe)
+- ⚡ Let me emphasize on this: I Love python(i gues thats why am single hehehe)
 
 
 #### Codiga statistics
