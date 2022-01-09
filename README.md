@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-### Github Stats
-![winter's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1nterFr3ak)
-#### Codiga statistics
- 
-<a href="https://app.codiga.io/public/user/github/W1nterFr3ak">
-   <img src="https://api.codiga.io/public/badge/user/github/W1nterFr3ak?style=light" alt="codiga badge" />
-</a>W1nterFr3ak
+
+| name  | Stats |
+| ------------- | ------------- |
+| ### Github | ![winter's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1nterFr3ak) |
+| ### Codiga | <a href="https://app.codiga.io/public/user/github/W1nterFr3ak"><img src="https://api.codiga.io/public/badge/user/github/W1nterFr3ak?style=light" alt="codiga badge" /></a>W1nterFr3ak |
+
+
 
 
 
