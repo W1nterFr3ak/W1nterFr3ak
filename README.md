@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </a>
 
 
-| Github  | Codiga |
+| Codiga | Github |
 | ------------- | ------------- |
 | <a href="https://app.codiga.io/public/user/github/W1nterFr3ak"><img src="https://api.codiga.io/public/badge/user/github/W1nterFr3ak?style=light" alt="codiga badge" /></a> | ![winter's GitHub stats](https://github-readme-stats.vercel.app/api?username=W1nterFr3ak) |
 
