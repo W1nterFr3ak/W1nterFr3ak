@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Chris Byron
 - 👀 I’m a Cybersec enthusiast, Software Developer and an avid Lover of Python.
 - 😄 Did i mention that am a wannabe Linux and Exploit dev 
-- 🌱 I’m currently working as a computer teacher while learning rootkit development.
+- 🌱 I’m currently working as a Cybersecurity Instructor  while learning rootkit development.
 - 💞️ I’m a member of Fr33aks ctf team and Team Captain of Seekers . But if you need a pwn and crypto teammate hola me 
 - 😄 Portfolio: I think I need one of these (coming soon)
-- ⚡ Let me emphasize on this: **I Love python(i guess thats why am single hehehe)**
+- ⚡ Let me emphasize on this: **I Love python**
 #### Contacts
 <a href="mailto:byronchris25@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
